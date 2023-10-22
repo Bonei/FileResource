@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileManagerMain.cpp">
+    <ClCompile Include="FileResourceMain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="MyException.cpp">
