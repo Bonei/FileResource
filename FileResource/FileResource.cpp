@@ -5,6 +5,7 @@
 #include <filesystem>
 #include <fstream>
 #include "FileTypeEnum.h"
+#include "MyException.cpp"
 
 using namespace std;
 namespace fs = std::filesystem;
